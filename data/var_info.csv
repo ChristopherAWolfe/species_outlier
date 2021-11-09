@@ -1,36 +1,36 @@
-Variable,Type,Categories,Missing_Value
-binom,other,,
-adult_bm,x,,-999
-adult_fore,continuous,,-999
-adult_head_body,continuous,,-999
-age_eye,continuous,,-999
-age_birth,continuous,,-999
-bmr,continuous,,-999
-bmr_mass,continuous,,-999
-diet,continuous,,-999
-disp_age,continuous,,-999
-gest_len,continuous,,-999
-hab_breadth,continuous,,-999
-home_range,continuous,,-999
-home_range_indiv,continuous,,-999
-interbirth_int,continuous,,-999
-lit_Size,continuous,,-999
-lit_per_year,continuous,,-999
-max_longevity,continuous,,-999
-neonate_bm,continuous,,-999
-neonate_head_body,continuous,,-999
-pop_dens,continuous,,-999
-pop_group,continuous,,-999
-sex_mat_age,continuous,,-999
-social_group,continuous,,-999
-teat_num,continuous,,-999
-wean_age,continuous,,-999
-wean_bm,continuous,,-999
-wean_head_body,continuous,,-999
-precip_mean,continuous,,-999
-temp_mean,continuous,,-999
-aet_mean,continuous,,-999
-pet_mean,continuous,,-999
-terres,ordinal,1 2,-999
-trophic,ordinal,1 2 3,-999
-act_cycle,ordinal,1 2 3,-999
+Variable,Type,Categories,Missing_Value,Left_Right_Side,Left_Label,Right_Label,Left_Right_Approach
+binom,other,,,,,,
+adult_bm,x,,-999,,,,
+adult_fore,continuous,,-999,,,,
+adult_head_body,continuous,,-999,,,,
+age_eye,continuous,,-999,,,,
+age_birth,continuous,,-999,,,,
+bmr,continuous,,-999,,,,
+bmr_mass,continuous,,-999,,,,
+diet,continuous,,-999,,,,
+disp_age,continuous,,-999,,,,
+gest_len,continuous,,-999,,,,
+hab_breadth,continuous,,-999,,,,
+home_range,continuous,,-999,,,,
+home_range_indiv,continuous,,-999,,,,
+interbirth_int,continuous,,-999,,,,
+lit_Size,continuous,,-999,,,,
+lit_per_year,continuous,,-999,,,,
+max_longevity,continuous,,-999,,,,
+neonate_bm,continuous,,-999,,,,
+neonate_head_body,continuous,,-999,,,,
+pop_dens,continuous,,-999,,,,
+pop_group,continuous,,-999,,,,
+sex_mat_age,continuous,,-999,,,,
+social_group,continuous,,-999,,,,
+teat_num,continuous,,-999,,,,
+wean_age,continuous,,-999,,,,
+wean_bm,continuous,,-999,,,,
+wean_head_body,continuous,,-999,,,,
+precip_mean,continuous,,-999,,,,
+temp_mean,continuous,,-999,,,,
+aet_mean,continuous,,-999,,,,
+pet_mean,continuous,,-999,,,,
+terres,ordinal,1 2,-999,,,,
+trophic,ordinal,1 2 3,-999,,,,
+act_cycle,ordinal,1 2 3,-999,,,,
